@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DZ_4_2</string>
+    <string name="action_create_file">Создать .txt-файл</string>
+    <string name="action_open_file">Открыть файл</string>
+    <string name="action_save_file">Сохранить bmp-файл</string>
+    <string name="action_remove_file">Удалить файл/каталог</string>
+    <string name="action_create_folder">Создать каталог</string>
+    <string name="Begin">Если нет изображения сделайте фото</string>
+    <string name="action_image_capture">Кнопка \"фотоснимок\"</string>
+    <string name="action_image_save">Кнопка \"сохранить изображение\"</string>
+    <string name="this_is_photo">Изображение:</string>
+    <string name="this_is_ipsum">#омер ипсум</string>
+    <string name="action_image_change">Выбор изображения</string>
+</resources>
